@@ -1,6 +1,8 @@
 # tdshop
 
 > A Vue.js project
+For the speed of uploading, I deleted all the files in /static.
+Just use the structure.
 
 ## Build Setup
 
